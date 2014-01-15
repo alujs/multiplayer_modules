@@ -1,0 +1,24 @@
+{
+  "name": "multiplayer_modules",
+  "version": "0.0.0",
+  "description": "multiplayer_modules\r ===================",
+  "main": "rooms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steinernein/multiplayer_modules.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/steinernein/multiplayer_modules/issues"
+  },
+  "homepage": "https://github.com/steinernein/multiplayer_modules",
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "jasmine-node": "~1.11.0"
+  }
+}
