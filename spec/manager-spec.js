@@ -8,4 +8,12 @@ describe("Manager", function () {
 
   });
 
+  xit("It should initialize", function() {
+
+  });
+
+  xit("It should add listeners", function() {
+
+  });
+
 });  
